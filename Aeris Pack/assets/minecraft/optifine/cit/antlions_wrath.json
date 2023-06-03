@@ -1,0 +1,6 @@
+{
+  "parent": "./handheld_big.json",
+  "textures": {
+    "layer0": "./antlions_wrath.png"
+  }
+}

@@ -1,0 +1,44 @@
+Vanilla Tweaks: https://vanillatweaks.net/
+- Ashless Campfires
+- Singular Glazed Terracotta
+- Darker Dark Oak Leaves
+- Variated Moss
+- Variated Coarse Dirt
+- Variated Cobblestone
+- Variated Stone
+- Variated Unpolished Stones
+- Variated Logs
+- Variated Dirt
+- Variated Gravel
+- Lower Shield
+- 3D Glow Lichen
+- 3D Sugar Cane
+- 3D Chains
+- 3D Ladders
+- ItemHoldFix
+- DoubleSlabFix
+- BlazeFix
+- IronBarsFix
+- SoulSoilSoulCampfire
+- CatFix
+- DripleafFixSmall
+- HungerPreview
+- NoPumpkinOverlay
+- Endless End Rods
+- Polished Stones (Texture used in double slab)
+- Alternate Cut Copper (Texture used in double slab)
+
+I_Am_Merp, From The Brush Up Pack
+- Tools and Armor Icons, gold tools have had shapes changed, all wooden handle tools use a different color, wooden tools have leaves
+
+xalixilax
+- Lily Pads
+
+Spryzeen
+- Better Glint
+
+StefanJ2_
+- Moss Carpet
+- Tall wheat
+- Various pillar textures, many have been recolored to fit with default textures
+

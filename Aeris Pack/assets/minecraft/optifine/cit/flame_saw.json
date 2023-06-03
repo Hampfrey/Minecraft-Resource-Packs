@@ -1,0 +1,6 @@
+{
+  "parent": "./handheld_medium.json",
+  "textures": {
+    "layer0": "./flame_saw.png"
+  }
+}

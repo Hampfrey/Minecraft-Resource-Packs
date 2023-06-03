@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld_high",
+  "textures": {
+    "layer0": "minecraft:item/netherite_sword"
+  }
+}

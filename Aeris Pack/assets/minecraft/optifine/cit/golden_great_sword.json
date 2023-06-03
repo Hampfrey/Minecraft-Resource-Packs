@@ -1,0 +1,6 @@
+{
+  "parent": "./handheld_medium.json",
+  "textures": {
+    "layer0": "./golden_great_sword.png"
+  }
+}

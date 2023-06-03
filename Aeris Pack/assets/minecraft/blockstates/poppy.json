@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/poppy/block/0"
+      },
+      {
+        "model": "block/poppy/block/1"
+      },
+      {
+        "model": "block/poppy/block/2"
+      }
+    ]
+  }
+}

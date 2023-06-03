@@ -1,0 +1,18 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/blue_orchid/block/0"
+      },
+      {
+        "model": "block/blue_orchid/block/1"
+      },
+      {
+        "model": "block/blue_orchid/block/2"
+      },
+      {
+        "model": "block/blue_orchid/block/3"
+      }
+    ]
+  }
+}

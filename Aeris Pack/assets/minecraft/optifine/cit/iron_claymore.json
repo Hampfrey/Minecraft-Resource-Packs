@@ -1,0 +1,6 @@
+{
+  "parent": "./handheld_big.json",
+  "textures": {
+    "layer0": "./iron_claymore.png"
+  }
+}

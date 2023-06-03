@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/lily_of_the_valley/block/0"
+      },
+      {
+        "model": "block/lily_of_the_valley/block/1"
+      },
+      {
+        "model": "block/lily_of_the_valley/block/2"
+      }
+    ]
+  }
+}

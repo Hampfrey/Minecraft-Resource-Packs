@@ -1,0 +1,6 @@
+{
+  "parent": "./handheld_high.json",
+  "textures": {
+    "layer0": "./iron_rapier.png"
+  }
+}

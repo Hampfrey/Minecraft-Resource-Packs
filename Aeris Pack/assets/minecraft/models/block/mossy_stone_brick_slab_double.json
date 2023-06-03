@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Hampfrey",
+	"parent": "block/cube_column",
+	"textures": {
+		"side": "block/mossy_stone_brick_slab_double",
+		"end": "block/mossy_stone_brick_slab_double_top"
+	}
+}

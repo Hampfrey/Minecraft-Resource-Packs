@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Hampfrey",
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "block/oak_slab_double"
+	}
+}

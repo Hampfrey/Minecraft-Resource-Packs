@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Hampfrey",
+	"parent": "block/cube_column",
+	"textures": {
+		"side": "block/mangrove_slab_double_side",
+		"end": "block/mangrove_slab_double_top"
+	}
+}

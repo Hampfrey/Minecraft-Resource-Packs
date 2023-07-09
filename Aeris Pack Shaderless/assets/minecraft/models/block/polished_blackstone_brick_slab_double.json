@@ -1,0 +1,8 @@
+{
+	"credit": "Created by Hampfrey",
+	"parent": "block/cube_column",
+	"textures": {
+		"side": "block/polished_blackstone_brick_slab_double",
+		"end": "block/polished_blackstone_brick_slab_double_top"
+	}
+}

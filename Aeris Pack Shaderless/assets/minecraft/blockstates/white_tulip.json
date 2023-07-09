@@ -1,0 +1,15 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/white_tulip/block/0"
+      },
+      {
+        "model": "block/white_tulip/block/1"
+      },
+      {
+        "model": "block/white_tulip/block/2"
+      }
+    ]
+  }
+}

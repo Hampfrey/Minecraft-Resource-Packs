@@ -1,0 +1,7 @@
+{
+	"credit": "Created by Hampfrey",
+	"parent": "block/cube_all",
+	"textures": {
+		"all": "block/dark_prismarine_slab_double"
+	}
+}

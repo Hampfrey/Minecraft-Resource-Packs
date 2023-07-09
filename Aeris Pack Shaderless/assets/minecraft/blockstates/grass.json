@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/grass/block/0"
+      },
+      {
+        "model": "block/grass/block/1"
+      }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+    "pack": {
+        "pack_format": 15,
+        "description": "\u00a76Corrects glow when shaders aren't loaded"
+    }
+}

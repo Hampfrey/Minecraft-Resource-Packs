@@ -1,6 +1,0 @@
-{
-  "parent": "./handheld_big_flipped.json",
-  "textures": {
-    "layer0": "./combat_hoe.png"
-  }
-}

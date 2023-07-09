@@ -1,6 +1,0 @@
-{
-  "parent": "./handheld_high.json",
-  "textures": {
-    "layer0": "./alysium.png"
-  }
-}

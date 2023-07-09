@@ -1,6 +1,0 @@
-{
-  "parent": "./handheld_big.json",
-  "textures": {
-    "layer0": "./reef.png"
-  }
-}
